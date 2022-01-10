@@ -1,8 +1,6 @@
 # python_finance
 Collection of python scripts for stock analysis
 
-#############
-
  - Each file works isolated;
  - They all (excluding regression.py, which uses a .xlsx as database) have at the beginning an array with the tickers to analyse;
 
